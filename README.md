@@ -1,3 +1,3 @@
 # BtcUtils
 
-Migrate to https://github.com/wirexapp/WirexUtils
+Migrated to https://github.com/wirexapp/WirexUtils
